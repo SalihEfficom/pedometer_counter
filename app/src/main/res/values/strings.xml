@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<resources>
+
+    <string name="app_name">android_project_pedometers</string>
+
+    <!-- BOTTOM VIEW NAV -->
+
+    <string name="bottom_navigation_menu_daily">Daily</string>
+
+    <string name="bottom_navigation_menu_total">Total</string>
+
+    <string name="bottom_navigation_menu_generalView">General View</string>
+    <string name="title_activity_step_info">stepInfo</string>
+
+</resources>
